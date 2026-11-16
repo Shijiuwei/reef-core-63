@@ -1,0 +1,6 @@
+# Public technical documentation robots policy
+User-agent: *
+Allow: /
+Allow: /docs/
+
+Sitemap: https://Shijiuwei.github.io/reef-core-63/sitemap.xml
